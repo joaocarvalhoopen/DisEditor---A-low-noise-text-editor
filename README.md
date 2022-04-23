@@ -22,7 +22,7 @@ I'm making this tool for me and for my daughter. I will be sharing it in here wi
 
 6. Node.js
 
-7. ...and possibly same Javascript
+7. ...and possibly some Javascript
 
 
 ## References
